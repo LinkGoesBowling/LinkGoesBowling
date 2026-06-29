@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3>🚀 Current Projects</h3>
 <p>I'm currently working on a bowling scores app that calculates the score from a scoresheet when you press the buttons and then outputs your total pinfall, game count, and average. It mainly uses JavaScript, but also has HTML and CSS.</p>
 <h3>📚 Learning</h3>
-<p>I am currently working on JavaScript, and I can use HTML and CSS.</p>
+<p>I am currently working on JavaScript and expanding my knowledge of HTML and CSS.</p>
 <h3>🎯 Goals</h3>
 <ul>
   <li>Continue building coding projects</li>
