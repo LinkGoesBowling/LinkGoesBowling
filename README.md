@@ -28,4 +28,4 @@ Here are some ideas to get you started:
   <li>Get a career in cybersecurity</li>
 </ul>
 <h3>🎳 Outside of coding</h3>
-<p>Bowling is my favorite hobby, which is why my profile is decorated around it. I average 200 and work on it several times a week. I also like to watch sports, mainly baseball, but also some hockey and basketball.</p>
+<p>Bowling is my favorite hobby, which is why my profile is decorated around it. I average around 200 and work on it several times a week. I also like to watch sports, mainly baseball, but also some hockey and basketball.</p>
