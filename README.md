@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3>I'm Link Kelly, a high school student from Colorado interested in cybersecurity.</h3>
+<h3>I'm Link Kelly, a student interested in cybersecurity.</h3>
 <h3>🚀 Current Projects</h3>
 <p>I'm currently working on a bowling scores app that calculates the score from a scoresheet when you press the buttons and then outputs your total pinfall, game count, and average. It mainly uses JavaScript, but also has HTML and CSS.</p>
 <h3>📚 Learning</h3>
@@ -27,5 +27,3 @@ Here are some ideas to get you started:
   <li>Study cybersecurity in high school and college</li>
   <li>Get a career in cybersecurity</li>
 </ul>
-<h3>🎳 Outside of coding</h3>
-<p>Bowling is my favorite hobby, which is why my profile is decorated around it. I average around 200 and work on it several times a week. I also like to watch sports, mainly baseball, but also some hockey and basketball.</p>
