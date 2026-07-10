@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <h3>🚀 Current Projects</h3>
 <p>I'm currently working on a bowling scores app that calculates the score from a scoresheet when you press the buttons and then outputs your total pinfall, game count, and average. It mainly uses JavaScript, but also has HTML and CSS.</p>
 <h3>📚 Learning</h3>
-<p>I am currently working on JavaScript and expanding my knowledge of HTML and CSS.</p>
+<p>I am currently working on JavaScript. Next year, I will be learning Python in school and I will eventually learn Java.</p>
 <h3>🎯 Goals</h3>
 <ul>
   <li>Continue building coding projects</li>
   <li>Get a part-time programming job</li>
-  <li>Learn new programming languages (thinking mainly about Python and Java)</li>
+  <li>Learn new programming languages</li>
   <li>Study cybersecurity in high school and college</li>
   <li>Get a career in cybersecurity</li>
 </ul>
