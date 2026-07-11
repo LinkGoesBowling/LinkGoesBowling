@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3>I'm Link Kelly, a student interested in cybersecurity.</h3>
+<h3>I'm Link Kelly, a student interested in web design and cybersecurity.</h3>
 <h3>🚀 Current Projects</h3>
 <p>I'm currently working on a bowling scores app that calculates the score from a scoresheet when you press the buttons and then outputs your total pinfall, game count, and average. It mainly uses JavaScript, but also has HTML and CSS.</p>
 <h3>📚 Learning</h3>
