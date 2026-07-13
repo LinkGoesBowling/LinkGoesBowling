@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h3>I'm Link Kelly, a student interested in web design and cybersecurity.</h3>
 <h3>🚀 Current Projects</h3>
-<p>I'm currently working on a bowling scores app that calculates the score from a scoresheet when you press the buttons and then outputs your total pinfall, game count, and average. It mainly uses JavaScript, but also has HTML and CSS.</p>
+<p>I'm currently working on a web game called JavaScriptPaddles. My goal is to learn about things like sound effects, element deletion, moving objects, etc. I have recently finished an MLB leaderboard that adjusts non-qualified players and lists them with qualifiers.</p>
 <h3>📚 Learning</h3>
 <p>I am currently working on JavaScript. Next year, I will be learning Python in school and I will eventually learn Java.</p>
 <h3>🎯 Goals</h3>
