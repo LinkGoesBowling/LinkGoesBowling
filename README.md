@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h3>I'm Link Kelly, a student interested in web design and cybersecurity.</h3>
 <h3>🖥️ Languages</h3>
 <ul>
-  <li>JavaScript</li>
-  <li>Java (in progress)</li>
-  <li>HTML and CSS</li>
+  <li>JavaScript (intermediate)</li>
+  <li>HTML and CSS (intermediate)</li>
+  <li>Java (beginner)</li>
 </ul>
 <h3>🚀 Current Projects</h3>
 <p>I currently have no in progress projects because I am learning Java.</p>
