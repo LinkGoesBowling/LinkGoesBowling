@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3>🚀 Current Projects</h3>
 <p>I currently have no in progress projects because I am learning Java.</p>
 <h3>📚 Learning</h3>
-<p>I have just started working on Java, and I will be learning Python in school next year.</p>
+<p>I am currently learning Java so I can prepare for a cybersecurity career and do things like backend web development.</p>
 <h3>🎯 Goals</h3>
 <ul>
   <li>Continue building coding projects</li>
