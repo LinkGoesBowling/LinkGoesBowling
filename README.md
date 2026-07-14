@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <h3>I'm Link Kelly, a student interested in web design and cybersecurity.</h3>
 <h3>🚀 Current Projects</h3>
-<p>I'm currently working on a web game called JavaScriptPaddles. My goal is to learn about things like sound effects, element deletion, moving objects, etc. I have recently finished an MLB leaderboard that adjusts non-qualified players and lists them with qualifiers.</p>
+<p>I currently have no in progress projects because I am learning Java.</p>
 <h3>📚 Learning</h3>
-<p>I am currently working on JavaScript. Next year, I will be learning Python in school and I will eventually learn Java.</p>
+<p>I have just started working on Java, and I will be learning Python in school next year.</p>
 <h3>🎯 Goals</h3>
 <ul>
   <li>Continue building coding projects</li>
