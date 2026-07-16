@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h3>I'm Link Kelly, a student interested in web design and cybersecurity.</h3>
 <h3>🖥️ Languages</h3>
 <ul>
-  <li>JavaScript (intermediate)</li>
-  <li>HTML and CSS (intermediate)</li>
-  <li>Java (beginner)</li>
+  <li>JavaScript (Intermediate)</li>
+  <li>HTML and CSS (Intermediate)</li>
+  <li>Java (Beginner+)</li>
 </ul>
 <h3>🚀 Current Projects</h3>
 <p>I am currently working on a bowling league manager in Java to learn it.</p>
