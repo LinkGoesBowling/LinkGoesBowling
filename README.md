@@ -22,14 +22,14 @@ Here are some ideas to get you started:
   <li>Java (Beginner+)</li>
 </ul>
 <h3>🚀 Current Projects</h3>
-<p>I am currently working on a bowling league manager in Java to learn it.</p>
+<p>I am currently working on a bowling league manager in Java to learn it. When it is done, it will be a website like my other projects, but it will send data to the frontend from the backend.</p>
 <h3>📚 Learning</h3>
 <p>I am currently learning Java so I can prepare for a cybersecurity career and do things like backend web development.</p>
 <h3>🎯 Goals</h3>
 <ul>
   <li>Continue building coding projects</li>
   <li>Get a part-time front-end dev job</li>
-  <li>Learn new programming languages</li>
+  <li>Learn new programming languages (Python is next)</li>
   <li>Study cybersecurity in high school and college</li>
   <li>Get a career in cybersecurity</li>
 </ul>
