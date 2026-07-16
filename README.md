@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <ul>
   <li>Continue building coding projects</li>
   <li>Get a part-time web dev job</li>
-  <li>Learn new programming languages (Python is next)</li>
+  <li>Learn Python and strengthen Java/JS skills</li>
   <li>Study cybersecurity in high school and college</li>
   <li>Get a career in cybersecurity</li>
 </ul>
