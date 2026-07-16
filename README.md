@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <h3>🎯 Goals</h3>
 <ul>
   <li>Continue building coding projects</li>
-  <li>Get a part-time front-end dev job</li>
+  <li>Get a part-time web dev job</li>
   <li>Learn new programming languages (Python is next)</li>
   <li>Study cybersecurity in high school and college</li>
   <li>Get a career in cybersecurity</li>
