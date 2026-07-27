@@ -33,3 +33,5 @@ Here are some ideas to get you started:
   <li>Study cybersecurity in high school and college</li>
   <li>Get a career in cybersecurity</li>
 </ul>
+<h3>📨 Contact Me</h3>
+<p>My email address is <a href="mailto:linkkelly5@icloud.com">linkkelly5@icloud.com</a>.</p>
