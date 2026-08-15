@@ -12,7 +12,7 @@
   <li>Continue building coding projects</li>
   <li>Learn Python and strengthen Java/JS skills</li>
   <li>Study cybersecurity in high school</li>
-  <li>Get certifications like CompTIA A+, Network+, and Security+, Cisco, and attend bootcamps after high school</li>
+  <li>Get certifications like CompTIA A+, Network+, and Security+ and Cisco, and attend bootcamps after high school</li>
   <li>Start in IT Support and eventually move up to SOC Analyst</li>
   <li>Move up cybersecurity ladder</li>
 </ul>
